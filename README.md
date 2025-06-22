@@ -1,4 +1,4 @@
-# myexam
+# my-exam
 test exam repo
 
 <h1>heyy</h1>
